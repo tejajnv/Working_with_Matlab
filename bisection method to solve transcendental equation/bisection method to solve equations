@@ -1,0 +1,113 @@
+These are results of the iterations 
+x values   f(X)values
+
+iteration  1 
+1.50000000    -2.32390874 
+
+error values 2.50000000 
+
+iteration  2 
+0.25000000    1.27294001 
+
+error values 1.25000000 
+
+iteration  3 
+-0.37500000    1.29278127 
+
+error values 0.62500000 
+
+iteration  4 
+-0.68750000    0.89196020 
+
+error values 0.31250000 
+
+iteration  5 
+-0.84375000    0.50238566 
+
+error values 0.15625000 
+
+iteration  6 
+-0.92187500    0.26496501 
+
+error values 0.07812500 
+
+iteration  7 
+-0.96093750    0.13589338 
+
+error values 0.03906250 
+
+iteration  8 
+-0.98046875    0.06879582 
+
+error values 0.01953125 
+
+iteration  9 
+-0.99023438    0.03460976 
+
+error values 0.00976562 
+
+iteration  10 
+-0.99511719    0.01735779 
+
+error values 0.00488281 
+
+iteration  11 
+-0.99755859    0.00869212 
+
+error values 0.00244141 
+
+iteration  12 
+-0.99877930    0.00434936 
+
+error values 0.00122070 
+
+iteration  13 
+-0.99938965    0.00217551 
+
+error values 0.00061035 
+
+iteration  14 
+-0.99969482    0.00108796 
+
+error values 0.00030518 
+
+iteration  15 
+-0.99984741    0.00054403 
+
+error values 0.00015259 
+
+iteration  16 
+-0.99992371    0.00027203 
+
+error values 0.00007629 
+
+iteration  17 
+-0.99996185    0.00013602 
+
+error values 0.00003815 
+
+iteration  18 
+-0.99998093    0.00006801 
+
+error values 0.00001907 
+
+iteration  19 
+-0.99999046    0.00003401 
+
+error values 0.00000954 
+
+iteration  20 
+-0.99999523    0.00001700 
+
+error values 0.00000477 
+
+iteration  21 
+-0.99999762    0.00000850 
+
+error values 0.00000238 
+
+iteration  22 
+-0.99999881    0.00000425 
+
+error values 0.00000119 
+
