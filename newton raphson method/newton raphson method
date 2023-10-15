@@ -1,0 +1,10 @@
+#solution using newton raphson method 
+the initial guess is   8.0000 
+iteration1
+value of function at x0 is -3.92056 and value of x1 is   3.5194
+iteration2
+value of function at x1 is -0.26108 and value of x2 is   3.1546
+iteration3
+value of function at x2 is -0.00577 and value of x3 is   3.1462
+iteration4
+value of function at x3 is -0.00000 and value of x4 is   3.1462
