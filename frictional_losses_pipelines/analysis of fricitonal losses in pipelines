@@ -1,0 +1,14 @@
+#Given the mass flow rate
+length of pipe
+roughness factor
+density of fluid
+diameter of pipe
+viscosity of fluid
+accelertaion due to gravity 
+#this programme calculates the frcitional losses with frciton factor from the colebrook equation which is 
+# 1/f^0.5 + 2*log10((eb/3.7)+(5.51/(re*(f^0.5)))) for turbulent flow 
+# 64/re for laminar flow
+The reynolds number is 522.1191 
+It is in laminar region since 522.1191 is below 2000 
+the friction factor obtained is   0.1226 
+The head losses are calculated   0.0491 
